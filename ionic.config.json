@@ -1,5 +1,8 @@
 {
   "name": "naeyc19",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "b5f4134f"
 }
